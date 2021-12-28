@@ -1,0 +1,7 @@
+{
+  "name": "dcc-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
